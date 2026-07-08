@@ -58,6 +58,7 @@ pehnava-ecommerce-website/
 ├── index.html
 └── README.md
 
+```
 ---
 
 ## 🚀 Installation
