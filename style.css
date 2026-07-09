@@ -303,7 +303,9 @@ footer {
         padding: 20px;
         border-radius: 15px;
     }
-
+    .dark ul a {
+    color: var(--dark);
+}
     nav a {
         color: var(--dark)
     }
